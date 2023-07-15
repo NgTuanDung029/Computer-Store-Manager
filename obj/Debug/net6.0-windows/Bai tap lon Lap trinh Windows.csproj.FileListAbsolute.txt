@@ -1,0 +1,32 @@
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.exe
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.deps.json
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.runtimeconfig.json
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.dll
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.pdb
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.csproj.AssemblyReference.cache
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai_tap_lon_Lap_trinh_Windows.Form1.resources
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.csproj.GenerateResource.cache
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.AssemblyInfoInputs.cache
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.AssemblyInfo.cs
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.csproj.CoreCompileInputs.cache
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.dll
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\refint\Bai tap lon Lap trinh Windows.dll
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.pdb
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.genruntimeconfig.cache
+D:\Lap trinh window\Bai tap lon Lap trinh Windows\obj\Debug\net6.0-windows\ref\Bai tap lon Lap trinh Windows.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Azure.Data.Tables.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai tap lon Lap trinh Windows.csproj.CopyComplete
+D:\Lap trinh window\Bai Tap lon Lap trinh Windows\obj\Debug\net6.0-windows\Bai_tap_lon_Lap_trinh_Windows.Properties.Resources.resources
